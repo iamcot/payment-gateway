@@ -1,8 +1,8 @@
 {
     "name": "iamcot/payment-gateway",
-    "description": "A helper to intergrate with almost Vietnam payment gateway",
+    "description": "A helper for integrating with almost all payment gateways in Vietnam.",
     "type": "library",
-    "license": "MIT license",
+    "license": "FREE",
     "autoload": {
         "psr-4": {
             "Iamcot\\PaymentGateway\\": "src/"
